@@ -2,7 +2,7 @@
 
 This repository contains implementations of fundamental Data Structures and Algorithms in Python.
 
-##  Folder Structure
+## 📂 Folder Structure
 
 - arrays → Basic array operations
 - sorting → Bubble Sort, Selection Sort
@@ -11,7 +11,7 @@ This repository contains implementations of fundamental Data Structures and Algo
 
 
 
-##  Goals of This Repository
+## 🚀 Goals of This Repository
 
 - Strengthen core DSA concepts
 - Prepare for technical interviews
@@ -19,7 +19,7 @@ This repository contains implementations of fundamental Data Structures and Algo
 
 
 
-##  Implemented So Far
+## 🛠️ Implemented So Far
 
 ### Arrays
 - Insert
