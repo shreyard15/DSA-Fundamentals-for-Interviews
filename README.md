@@ -1,57 +1,91 @@
-# DSA Fundamentals for Interviews
+# 🚀 DSA Fundamentals for Interviews
 
-This repository contains implementations of fundamental Data Structures and Algorithms in Python for interview preparation.
-
-
-# 📚 Arrays
-
-### Array Operations
-- Access: O(1)
-- Search: O(n)
-- Insertion: O(n)
-- Deletion: O(n)
-- Space Complexity: O(1)
+A structured collection of essential Data Structures and Algorithms implemented in Python.
+This repository is designed for coding interviews, placement preparation, and concept revision.
 
 
+## 📌 Project Objective
 
-# 🔁 Sorting Algorithms
-
-### Bubble Sort
-- Best Case: O(n)
-- Average Case: O(n²)
-- Worst Case: O(n²)
-- Space Complexity: O(1)
-
-### Selection Sort
-- Best Case: O(n²)
-- Average Case: O(n²)
-- Worst Case: O(n²)
-- Space Complexity: O(1)
-
-### Merge Sort
-- Best Case: O(n log n)
-- Average Case: O(n log n)
-- Worst Case: O(n log n)
-- Space Complexity: O(n)
+- Strengthen core DSA fundamentals
+- Understand time & space complexity clearly
+- Build clean, modular implementations
+- Prepare for technical interviews
 
 
 
-# 🔍 Searching Algorithms
+## 📂 Project Structure
 
-### Linear Search
-- Best Case: O(1)
-- Worst Case: O(n)
+DSA-Fundamentals-for-Interviews/
+│
+├── arrays/
+│   └── arrays_basics.py
+│
+├── sorting/
+│   ├── bubble_sort.py
+│   ├── selection_sort.py
+│   └── merge_sort.py
+│
+├── searching/
+│   ├── linear_search.py
+│   └── binary_search.py
+│
+├── linked_list/
+│   └── singly_linked_list.py
+│
+└── README.md
 
-### Binary Search
-- Best Case: O(1)
-- Worst Case: O(log n)
+
+
+# 🧠 Implemented Concepts
 
 
 
-# 🔗 Linked List (Singly)
+## 🔁 Sorting Algorithms
 
-- Insertion (Beginning): O(1)
-- Insertion (End): O(n)
-- Deletion: O(n)
-- Search: O(n)
-- Space Complexity: O(n)
+| Algorithm        | Best Case     | Average Case   | Worst Case     | Space Complexity |
+|-----------------|--------------|---------------|---------------|-----------------|
+| Bubble Sort     | O(n)         | O(n²)         | O(n²)         | O(1)            |
+| Selection Sort  | O(n²)        | O(n²)         | O(n²)         | O(1)            |
+| Merge Sort      | O(n log n)   | O(n log n)    | O(n log n)    | O(n)            |
+
+
+
+## 🔎 Searching Algorithms
+
+| Algorithm       | Best Case | Worst Case | Requirement |
+|---------------|----------|-----------|------------|
+| Linear Search  | O(1)     | O(n)      | Works on any array |
+| Binary Search  | O(1)     | O(log n)  | Requires sorted array |
+
+
+
+## 🔗 Data Structures
+
+### Singly Linked List
+
+- Insertion at beginning → O(1)
+- Insertion at end → O(n)
+- Deletion → O(n)
+- Traversal → O(n)
+
+
+
+# ▶️ How to Run
+
+Clone the repository:
+
+git clone https://github.com/your-username/DSA-Fundamentals-for-Interviews.git
+
+Run any file:
+
+python sorting/bubble_sort.py
+
+
+
+# 📌 Upcoming Additions
+
+- Stack
+- Queue
+- Trees
+- Graphs
+- Dynamic Programming
