@@ -1,20 +1,22 @@
 # 🚀 DSA Fundamentals for Interviews
 
-A structured collection of essential Data Structures and Algorithms implemented in Python.
-This repository is designed for coding interviews, placement preparation, and concept revision.
+A structured collection of essential Data Structures and Algorithms implemented in Python.  
+This repository is built for coding interviews, placement preparation, and strong conceptual understanding.
+
 
 
 ## 📌 Project Objective
 
-- Strengthen core DSA fundamentals
-- Understand time & space complexity clearly
-- Build clean, modular implementations
-- Prepare for technical interviews
+- Strengthen core DSA fundamentals  
+- Understand time & space complexity clearly  
+- Build clean, modular implementations  
+- Prepare effectively for technical interviews  
 
 
 
 ## 📂 Project Structure
 
+```
 DSA-Fundamentals-for-Interviews/
 │
 ├── arrays/
@@ -33,6 +35,7 @@ DSA-Fundamentals-for-Interviews/
 │   └── singly_linked_list.py
 │
 └── README.md
+```
 
 
 
@@ -53,7 +56,7 @@ DSA-Fundamentals-for-Interviews/
 ## 🔎 Searching Algorithms
 
 | Algorithm       | Best Case | Worst Case | Requirement |
-|---------------|----------|-----------|------------|
+|----------------|----------|-----------|------------|
 | Linear Search  | O(1)     | O(n)      | Works on any array |
 | Binary Search  | O(1)     | O(log n)  | Requires sorted array |
 
@@ -63,29 +66,48 @@ DSA-Fundamentals-for-Interviews/
 
 ### Singly Linked List
 
-- Insertion at beginning → O(1)
-- Insertion at end → O(n)
-- Deletion → O(n)
-- Traversal → O(n)
+- Insertion at beginning → O(1)  
+- Insertion at end → O(n)  
+- Deletion → O(n)  
+- Traversal → O(n)  
 
 
 
-# ▶️ How to Run
+## ▶️ How to Run
 
 Clone the repository:
 
+```
 git clone https://github.com/your-username/DSA-Fundamentals-for-Interviews.git
+```
+
+Navigate into the project:
+
+```
+cd DSA-Fundamentals-for-Interviews
+```
 
 Run any file:
 
+```
 python sorting/bubble_sort.py
+```
 
 
 
-# 📌 Upcoming Additions
+## 🎯 Why This Repository?
 
-- Stack
-- Queue
-- Trees
-- Graphs
-- Dynamic Programming
+This project focuses on:
+
+- Clean and readable implementations  
+- Clear complexity analysis  
+- Interview-oriented preparation  
+- Strong foundational understanding of DSA  
+
+
+
+## 👨‍💻 Author
+
+Shreya RD 
+B.Tech Computer Science & Engineering (Cyber Security)
+  
