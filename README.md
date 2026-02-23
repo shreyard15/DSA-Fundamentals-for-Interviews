@@ -78,7 +78,7 @@ DSA-Fundamentals-for-Interviews/
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/DSA-Fundamentals-for-Interviews.git
+git clone https://github.com/shreyard15/DSA-Fundamentals-for-Interviews.git
 ```
 
 Navigate into the project:
