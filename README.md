@@ -1,7 +1,6 @@
 # 🚀 DSA Fundamentals for Interviews
 
-A structured collection of essential Data Structures and Algorithms implemented in Python.  
-This repository is built for coding interviews, placement preparation, and strong conceptual understanding.
+A collection of Python implementations of fundamental Data Structures and Algorithms designed for coding interviews, placement preparation, and strengthening problem-solving skills.
 
 
 
